@@ -1,0 +1,9 @@
+mockname: "{{ .InterfaceName }}"
+all: true
+packages:
+  github.com/CodeBitsOrg/dailystats/stats:
+    config:
+      dir: "stats/mocks"
+  github.com/CodeBitsOrg/dailystats/telegram:
+    config:
+      dir: "telegram/mocks"

@@ -1,0 +1,9 @@
+{
+  "data": {
+    "users": 120,
+    "comments": 260,
+    "news_subscribers": 334,
+    "monthly_plan": 40,
+    "yearly_plan": 50
+  }
+}
